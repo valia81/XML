@@ -1,0 +1,10 @@
+<skills>
+<?xml version "1.0" encoding="UTF-8"?>
+<skills>
+    <computerliteracy>FileSistem</computerliteracy>
+    <computerliteracy>DevTools</computerliteracy>
+    <basicsoftesting>TestCase</basicsoftesting>
+    <basicsoftesting>Checklist</basicsoftesting>
+    <testingtools>Jira</testingtools>
+    <testingtools>Postman</testingtools>
+</skills>

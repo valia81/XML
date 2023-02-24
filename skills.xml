@@ -1,9 +1,9 @@
 <?xml version "1.0" encoding="UTF-8"?>
 <skills>
-    <computerliteracy>FileSistem</computerliteracy>
-    <computerliteracy>DevTools</computerliteracy>
-    <basicsoftesting>TestCase</basicsoftesting>
-    <basicsoftesting>Checklist</basicsoftesting>
-    <testingtools>Jira</testingtools>
-    <testingtools>Postman</testingtools>
+    <COMPUTERLITERASY>FileSistem</COMPUTERLITERASY>
+    <COMPUTERLITERASY>DevTools</COMPUTERLITERASY>
+    <BASICSOFTESTING>TestCase</BASICOFTESTING>
+    <BASICSOFTESTING>Checklist</BASICSOFTESTING>
+    <TESTINGTOOLS>Jira</TESTINGTOOLS>
+    <TESTINGTOOLS>Postman</TESTINGTOOLS>
 </skills>

@@ -1,9 +1,9 @@
 <?xml version "1.0" encoding="UTF-8"?>
 <note>
-    <name>Valentina</name>
-    <favouriteactress>MerylStreep</favouriteactress>
-    <favoritemovie>Podmena</favoritemovie>
-    <favoritesong>Aicha</favoritesong>
-    <fovoriteseazon>Spring</favoriteseazon>
-    <favoritecountry>Japan</favoritecountry>
+    <NAME>Valentina</NAME>
+    <FAVOURITEACTRESS>MerylStreep</FAVOURITEACTRESS>
+    <FAVORITEMOVIE>Podmena</FAVORITEMOVIE>
+    <FAVORITESONG>Aicha</FAVORITESONG>
+    <FAVORITESEAZON>Spring</FAVORITESEAZON>
+    <FAVORITECOUNTRY>Japan</FAVORITECOUNTRY>
 </note>

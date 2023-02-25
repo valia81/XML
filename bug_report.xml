@@ -2,7 +2,7 @@
 <bug>
    <id>264606</id>
    <developer>ValentinaAlst</developer>
-   <creation time>15_02_2023</creation time>
+   <creationtime>15_02_2023</creationtime>
    <product>www_example_com</product>
    <resolution>fixed</resolution>
    <bug_severity>normal</bug_severity>

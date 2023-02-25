@@ -1,1 +1,14 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<bug>
+   <id>264606</id>
+   <developer>ValentinaAlst</developer>
+   <creation time>15.02.2023</creation time>
+   <product>www.example.com</product>
+   <resolution>fixed</resolution>
+   <bug_severity>normal</bug_severity>
+   <summary>The button does not work insert a photo</summary>
+   <description>When choosing the "insert photo" function in the p  rofile, the "insert photo" button does not work</deskription>
+   <actual_result>button "insert photo" is not clickable</actual_result>
+   <expectet_result>the "insert photo" button to be clickable</expected_result>
+</bug>
 

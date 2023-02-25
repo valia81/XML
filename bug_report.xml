@@ -7,7 +7,7 @@
    <resolution>fixed</resolution>
    <bug_severity>normal</bug_severity>
    <summary>The_button_does_not_work_insert_a_photo</summary>
-   <description>When_choosing_the_insert-photo_function_in_the_profile_the_insert_photo_button_does_not_work</deskription>
+   <description>When_choosing_the_insert_photo_function_in_the_profile_the_insert_photo_button_does_not_work</deskription>
    <actual_result>button_insert_photo_is_not_clickable</actual_result>
    <expectet_result>the_insert_photo_button_to_be_clickable</expected_result>
 </bug>

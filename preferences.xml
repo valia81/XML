@@ -7,3 +7,12 @@
      <favoriteseazon>Springk</favoriteseazon>
      <favoritecountry>Japan</favoritecountry>
 </note>
+<?xml version="1.0" encoding ="UTF-8"?>
+<note>
+     <name>Valentina</name>
+     <favouriteactress>MerylStreep</favouriteactress>
+     <favoritemovie>Podmena</favoritemovie>
+     <favoritesong>Aicha</favoritesong>
+     <favoriteseazon>Spring</favoriteseazon>
+     <favoritecountry>Japan</favoritecountry>
+</note>
